@@ -30,6 +30,8 @@ We apply **causal inference methods** to evaluate how precipitation—natural an
 - Difference in Differences
 - Synthetic Control
 
-<img width="900" height="350" alt="causal_diagram" src="https://github.com/user-attachments/assets/6778b0ec-a708-42d8-bedc-8ee92379dee3" />
+### Causal Diagram of Wildfire Mechanism
+
+<img width="900" height="420" alt="causal_diagram" src="https://github.com/user-attachments/assets/6778b0ec-a708-42d8-bedc-8ee92379dee3" />
 
 
