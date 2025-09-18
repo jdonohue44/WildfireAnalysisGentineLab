@@ -11,6 +11,12 @@ This project investigates the relationship between seasonal precipitation patter
    * Should seeding target warm-season or cold-season events, snowpack or rainfall?
    * What are the most optimal locations to cloud seed, given limited resources (e.g., areas near critical dryness thresholds)?
 
+## Data Sources
+
+1. US Cloud Seeding Activities (2000–2025) ([Zenodo](https://zenodo.org/records/16754931))
+2. US Wildfires (1992-2015) ([Kaggle](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data))
+3. US Precipitation (2000-2015) ([NOAA](https://www.ncei.noaa.gov/cdo-web/datasets))
+
 ## Approach
 
 We apply **causal inference methods** to evaluate how precipitation—natural and induced—affects wildfire outcomes across different regions and timeframes. The goal is to generate actionable insights for wildfire risk reduction and inform decisions about targeted precipitation enhancement strategies.
