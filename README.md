@@ -8,6 +8,11 @@ This project investigates the relationship between seasonal precipitation patter
 2. US Wildfires (1992-2015) ([Kaggle](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data))
 3. US Precipitation (2000-2015) ([NOAA](https://www.ncei.noaa.gov/cdo-web/datasets))
 
+## Project Structure
+
+* **data_visualizations**: Contains python-based data visualizations (mostly chloropleth) to show wildfires vs precipitation
+* **data**: Contains data sources
+
 ## Research Questions
 
 1. **Snowpack Effects**: Does increased snowpack reduce wildfires in subsequent fire seasons?
@@ -25,8 +30,6 @@ We apply **causal inference methods** to evaluate how precipitation—natural an
 - Difference in Differences
 - Synthetic Control
 
-## Project Structure
+<img width="900" height="350" alt="causal_diagram" src="https://github.com/user-attachments/assets/6778b0ec-a708-42d8-bedc-8ee92379dee3" />
 
-* **data_visualizations**: Contains python-based data visualizations (mostly chloropleth) to show wildfires vs precipitation
-* **data**: Contains data sources
 
